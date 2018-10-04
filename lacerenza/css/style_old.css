@@ -1,0 +1,54 @@
+.centra{
+    text-align:center;
+}
+
+.input{
+	margin:5px;	
+}
+
+.data_picker{
+background: url(img/calendar.png) no-repeat scroll 7px 7px;
+padding-left:30px;	
+}
+
+.prev{
+background: url(img/prev.png) no-repeat scroll 7px 7px;
+padding-left:30px;	
+}
+
+.next{
+background: url(img/next.png) no-repeat scroll 7px 7px;
+padding-left:30px;	
+}
+
+
+#messaggi_errore{
+position:absolute;
+right:0;
+
+z-index:10;	
+}
+
+.btn_modifica{
+	width:100%;	
+}
+
+.btn_elimina{
+	width:100%;	
+}
+
+.attivo{
+background:#666;
+}
+
+@media only screen and ( max-width: 767px){
+	
+#messaggi_errore{
+position:absolute;
+top:50%;
+left:20%;
+font-weight:bold;
+right:20%;
+z-index:10;	
+}
+}

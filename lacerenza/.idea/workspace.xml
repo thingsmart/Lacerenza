@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/stampa_ruolino.php" line="57" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5073daa-5833-4a43-a2a7-4e44b4589bcc" name="Default" comment="" />
+    <ignored path="lacerenza.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/dompdf/composer.json</pharConfigPath>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lacerenza" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="dettagli_modello.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dettagli_modello.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="812">
+              <caret line="258" column="164" selection-start-line="258" selection-start-column="164" selection-end-line="258" selection-end-column="164" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class.Allegati.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/classi/class.Allegati.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="tabella_dettagli_modello.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/tabella_dettagli_modello.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2220">
+              <caret line="148" column="4" lean-forward="true" selection-start-line="148" selection-start-column="4" selection-end-line="148" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="salva_ordine_items.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/salva_ordine_items.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="operazioni_modello_master.lib.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/operazioni_modello_master.lib.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="operazioni_modello.lib.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/operazioni_modello.lib.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class.Modello.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classi/class.Modello.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1740">
+              <caret line="116" column="9" lean-forward="true" selection-start-line="109" selection-start-column="8" selection-end-line="116" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tabella_dettagli_modello.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/sito/modelli/tabella_dettagli_modello.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="70" column="7" lean-forward="true" selection-start-line="41" selection-start-column="11" selection-end-line="70" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/operazioni_manutenzione.lib.php" />
+        <option value="$PROJECT_DIR$/lib/operazioni_materiale.lib.php" />
+        <option value="$PROJECT_DIR$/nuova_commessa.php" />
+        <option value="$PROJECT_DIR$/php/div_nuova_commessa.php" />
+        <option value="$PROJECT_DIR$/lib/operazioni_commessa.lib.php" />
+        <option value="$PROJECT_DIR$/nuovo_dipendente.php" />
+        <option value="$PROJECT_DIR$/php/div_nuovo_dipendente.php" />
+        <option value="$PROJECT_DIR$/pagina_dipendenti.php" />
+        <option value="$PROJECT_DIR$/js/sito/tabella_dipendenti.js" />
+        <option value="$PROJECT_DIR$/js/sito/commesse.js" />
+        <option value="$PROJECT_DIR$/commesse.php" />
+        <option value="$PROJECT_DIR$/js/sito/tabella_commesse.js" />
+        <option value="$PROJECT_DIR$/costo_operai.php" />
+        <option value="$PROJECT_DIR$/lib/operazioni_foto.lib.php" />
+        <option value="$PROJECT_DIR$/allarmi.php" />
+        <option value="$PROJECT_DIR$/pagina_mezzi.php" />
+        <option value="$PROJECT_DIR$/classi/class.Tagliandi.php" />
+        <option value="$PROJECT_DIR$/js/sito/tabella_mezzi.js" />
+        <option value="$PROJECT_DIR$/php/div_nuovo_mezzo.php" />
+        <option value="$PROJECT_DIR$/js/sito/nuovo_mezzo.js" />
+        <option value="$PROJECT_DIR$/classi/class.Mezzi.php" />
+        <option value="$PROJECT_DIR$/lib/operazioni_mezzo.lib.php" />
+        <option value="$PROJECT_DIR$/php/tabella_spese.php" />
+        <option value="$PROJECT_DIR$/php/tabella_dipendenti.php" />
+        <option value="$PROJECT_DIR$/classi/class.Spese.php" />
+        <option value="$PROJECT_DIR$/classi/class.Benzine.php" />
+        <option value="$PROJECT_DIR$/php/tabella_mezzi.php" />
+        <option value="$PROJECT_DIR$/statistiche_mezzo.php" />
+        <option value="$PROJECT_DIR$/php/tabella_comunicazioni.php" />
+        <option value="$PROJECT_DIR$/comunicazioni.php" />
+        <option value="$PROJECT_DIR$/pagina_comunicazioni.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/costo_dipendenti.php" />
+        <option value="$PROJECT_DIR$/pagina_allegati_dipendenti.php" />
+        <option value="$PROJECT_DIR$/php/tabella_allegati_dipendenti.php" />
+        <option value="$PROJECT_DIR$/classi/class.AllegatiDipendente.php" />
+        <option value="$PROJECT_DIR$/lib/operazioni_dipendente.lib.php" />
+        <option value="$PROJECT_DIR$/js/sito/tabella_allegati_dipendenti.js" />
+        <option value="$PROJECT_DIR$/databases/db_function.php" />
+        <option value="$PROJECT_DIR$/classi/class.AperturaCantiere.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/apertura_cantiere.php" />
+        <option value="$PROJECT_DIR$/js/sito/apertura_cantiere.js" />
+        <option value="$PROJECT_DIR$/lib/salva_commessa_cantiere.lib.php" />
+        <option value="$PROJECT_DIR$/classi/class.Commesse.php" />
+        <option value="$PROJECT_DIR$/query" />
+        <option value="$PROJECT_DIR$/php/tabella_commesse.php" />
+        <option value="$PROJECT_DIR$/css/syle-pdf.css" />
+        <option value="$PROJECT_DIR$/php/tabella_aperturacantiere.php" />
+        <option value="$PROJECT_DIR$/print_apertura.php" />
+        <option value="$PROJECT_DIR$/lib/operazioni_modello.lib.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1904" />
+    <option name="y" value="43" />
+    <option name="width" value="1680" />
+    <option name="height" value="977" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lacerenza" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lacerenza" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lacerenza" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lacerenza" type="462c0819:PsiDirectoryNode" />
+              <item name="classi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lacerenza" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lacerenza" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lacerenza" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lacerenza" type="462c0819:PsiDirectoryNode" />
+              <item name="uploads" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FullScreen" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js/sito" />
+      <recent name="$PROJECT_DIR$/php" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/classi" />
+      <recent name="C:\xampp\htdocs\lacerenza" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5073daa-5833-4a43-a2a7-4e44b4589bcc" name="Default" comment="" />
+      <created>1423645420178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1423645420178</updated>
+      <workItem from="1528897414325" duration="689000" />
+      <workItem from="1529049794960" duration="13000" />
+      <workItem from="1529317233191" duration="8000" />
+      <workItem from="1530107029348" duration="825000" />
+      <workItem from="1530195525909" duration="598000" />
+      <workItem from="1530270673817" duration="5513000" />
+      <workItem from="1530283736187" duration="1195000" />
+      <workItem from="1530517717703" duration="3976000" />
+      <workItem from="1530604148843" duration="4148000" />
+      <workItem from="1531145424420" duration="1208000" />
+      <workItem from="1531926243319" duration="6000" />
+      <workItem from="1537365098328" duration="24000" />
+    </task>
+    <task id="LOCAL-00022" summary="modifiche sal per tipologia">
+      <created>1425372600902</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1425372600902</updated>
+    </task>
+    <task id="LOCAL-00023" summary="ricerca nelle commesse">
+      <created>1425376885585</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1425376885585</updated>
+    </task>
+    <task id="LOCAL-00024" summary="costo per commessa">
+      <created>1425467466624</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1425467466624</updated>
+    </task>
+    <task id="LOCAL-00025" summary="modifiche filtri">
+      <created>1426066165039</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1426066165039</updated>
+    </task>
+    <task id="LOCAL-00026" summary="modifiche costi operai">
+      <created>1426605742332</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1426605742332</updated>
+    </task>
+    <task id="LOCAL-00027" summary="modifiche costi operai">
+      <created>1426754177452</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1426754177452</updated>
+    </task>
+    <task id="LOCAL-00028" summary="modifiche costi operai">
+      <created>1426780244326</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1426780244326</updated>
+    </task>
+    <task id="LOCAL-00029" summary="modifiche costi operai">
+      <created>1427133345259</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1427133345259</updated>
+    </task>
+    <task id="LOCAL-00030" summary="modifiche michele">
+      <created>1427271567064</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1427271567064</updated>
+    </task>
+    <task id="LOCAL-00031" summary="modifiche michele">
+      <created>1427294800322</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1427294800322</updated>
+    </task>
+    <task id="LOCAL-00032" summary="modifiche michele">
+      <created>1427909310292</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1427909310292</updated>
+    </task>
+    <task id="LOCAL-00033" summary="modifiche michele">
+      <created>1428514173908</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1428514173908</updated>
+    </task>
+    <task id="LOCAL-00034" summary="modifiche michele">
+      <created>1428677795237</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1428677795237</updated>
+    </task>
+    <task id="LOCAL-00035" summary="modifiche michele">
+      <created>1429266336211</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1429266336211</updated>
+    </task>
+    <task id="LOCAL-00036" summary="modifiche michele">
+      <created>1430118916768</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1430118916768</updated>
+    </task>
+    <task id="LOCAL-00037" summary="modifiche michele">
+      <created>1431336895350</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1431336895350</updated>
+    </task>
+    <task id="LOCAL-00038" summary="modifiche michele">
+      <created>1431530557169</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1431530557169</updated>
+    </task>
+    <task id="LOCAL-00039" summary="modifiche michele">
+      <created>1431533101174</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1431533101174</updated>
+    </task>
+    <task id="LOCAL-00040" summary="modifiche michele">
+      <created>1432647875625</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1432647875625</updated>
+    </task>
+    <task id="LOCAL-00041" summary="modifiche michele">
+      <created>1436871582935</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1436871582935</updated>
+    </task>
+    <task id="LOCAL-00042" summary="modifiche michele">
+      <created>1436886642806</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1436886642806</updated>
+    </task>
+    <task id="LOCAL-00043" summary="modifiche michele">
+      <created>1437377470380</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1437377470380</updated>
+    </task>
+    <task id="LOCAL-00044" summary="modifiche michele">
+      <created>1437377581575</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1437377581575</updated>
+    </task>
+    <task id="LOCAL-00045" summary="modifiche michele">
+      <created>1438611217425</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1438611217425</updated>
+    </task>
+    <task id="LOCAL-00046" summary="modifiche michele">
+      <created>1441033796064</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1441033796064</updated>
+    </task>
+    <task id="LOCAL-00047" summary="modifiche michele">
+      <created>1442474071987</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1442474071987</updated>
+    </task>
+    <task id="LOCAL-00048" summary="modifiche michele">
+      <created>1443194081897</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1443194081897</updated>
+    </task>
+    <task id="LOCAL-00049" summary="modifiche michele">
+      <created>1444117233492</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1444117233492</updated>
+    </task>
+    <task id="LOCAL-00050" summary="modifiche michele">
+      <created>1444637547976</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1444637547976</updated>
+    </task>
+    <task id="LOCAL-00051" summary="modifiche michele">
+      <created>1444812440877</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1444812440878</updated>
+    </task>
+    <task id="LOCAL-00052" summary="modifiche michele">
+      <created>1445270865446</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1445270865448</updated>
+    </task>
+    <task id="LOCAL-00053" summary="modifiche michele">
+      <created>1445334392015</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1445334392023</updated>
+    </task>
+    <task id="LOCAL-00054" summary="modifiche michele">
+      <created>1446199635135</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1446199635137</updated>
+    </task>
+    <task id="LOCAL-00055" summary="modifiche michele">
+      <created>1446220807312</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1446220807312</updated>
+    </task>
+    <task id="LOCAL-00056" summary="modifiche michele">
+      <created>1446800240784</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1446800240785</updated>
+    </task>
+    <task id="LOCAL-00057" summary="modifiche michele">
+      <created>1446827134628</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1446827134628</updated>
+    </task>
+    <task id="LOCAL-00058" summary="modifiche michele">
+      <created>1448362577424</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1448362577424</updated>
+    </task>
+    <task id="LOCAL-00059" summary="modifiche michele">
+      <created>1448363302637</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1448363302637</updated>
+    </task>
+    <task id="LOCAL-00060" summary="modifiche michele">
+      <created>1452500463258</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1452500463258</updated>
+    </task>
+    <task id="LOCAL-00061" summary="modifiche michele">
+      <created>1452506531424</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1452506531424</updated>
+    </task>
+    <task id="LOCAL-00062" summary="modifiche michele">
+      <created>1452506577254</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1452506577254</updated>
+    </task>
+    <task id="LOCAL-00063" summary="modifiche michele">
+      <created>1452512412591</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1452512412591</updated>
+    </task>
+    <task id="LOCAL-00064" summary="modifiche michele">
+      <created>1452533418755</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1452533418755</updated>
+    </task>
+    <task id="LOCAL-00065" summary="modifiche michele">
+      <created>1452588725019</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1452588725021</updated>
+    </task>
+    <task id="LOCAL-00066" summary="modifiche michele">
+      <created>1452592301695</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1452592301695</updated>
+    </task>
+    <task id="LOCAL-00067" summary="modifiche michele">
+      <created>1452592341265</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1452592341265</updated>
+    </task>
+    <task id="LOCAL-00068" summary="modifiche michele">
+      <created>1452592439853</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1452592439853</updated>
+    </task>
+    <task id="LOCAL-00069" summary="modifiche michele">
+      <created>1452595177284</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1452595177284</updated>
+    </task>
+    <task id="LOCAL-00070" summary="modifiche michele">
+      <created>1452598651931</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1452598651932</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18203000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1904" y="43" width="1680" height="977" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20357142" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32946146" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3295129" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Changes" order="7" />
+      <window_info anchor="bottom" id="Application Servers" order="9" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3293011" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3284055" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modifiche cartella e adhoc" />
+    <MESSAGE value="estrazioni dati adhoc" />
+    <MESSAGE value="modiifca file di backup" />
+    <MESSAGE value="modificha placeholder campi adhoc" />
+    <MESSAGE value="modifiche ruolino" />
+    <MESSAGE value="schermata di riepilogo" />
+    <MESSAGE value="modifiche riepilogo" />
+    <MESSAGE value="destinatario in comunicazioni" />
+    <MESSAGE value="mezzi libretto e costo manodopera" />
+    <MESSAGE value="mod" />
+    <MESSAGE value="negative number in IsNumber" />
+    <MESSAGE value="mod query  adhoc" />
+    <MESSAGE value="order by in SAL (RAL)" />
+    <MESSAGE value="differenza per tipologia in riepilogo" />
+    <MESSAGE value="automezzi disabilita avviso" />
+    <MESSAGE value="modifiche sal per tipologia" />
+    <MESSAGE value="ricerca nelle commesse" />
+    <MESSAGE value="costo per commessa" />
+    <MESSAGE value="modifiche filtri" />
+    <MESSAGE value="modifiche costi operai" />
+    <MESSAGE value="modifiche michele" />
+    <option name="LAST_COMMIT_MESSAGE" value="modifiche michele" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/comunicazioni.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nuova_benzina.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classi/class.Mezzi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="62" column="63" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statistiche_mezzo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="98" column="21" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classi/class.Spese.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="4" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/div_nuova_attivita.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classi/class.Dipendenti.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="205" column="19" selection-start-line="205" selection-start-column="19" selection-end-line="205" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nuova_attivita.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/costo_dipendenti.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="44" selection-end-line="247" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/sito/pagina_mezzi.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagina_mezzi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="104" column="31" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/tabella_mezzi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="94" column="169" selection-start-line="94" selection-start-column="122" selection-end-line="94" selection-end-column="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/sito/tabella_mezzi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="69" column="7" selection-start-line="45" selection-end-line="69" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/operazioni_mezzo.lib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="111" column="30" selection-start-line="90" selection-end-line="111" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classi/class.Benzine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="82" column="31" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagina_allegati_dipendenti.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="65" column="48" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/operazioni_dipendente.lib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="121" column="27" selection-end-line="165" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classi/class.AllegatiDipendente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="43" column="80" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/sito/tabella_allegati_dipendenti.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="48" column="49" selection-end-line="84" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/tabella_allegati_dipendenti.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="43" column="16" selection-end-line="120" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/allega_file.lib.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cartelle_foto.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/elenco_foto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/elenco_cartelle_foto.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/sito/elenco_cartelle_foto.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/operazioni_foto.lib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/databases/db_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classi/class.AperturaCantiere.php" />
+    <entry file="file://$PROJECT_DIR$/php/tabella_commessa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dettaglio_commessa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" selection-start-line="65" selection-end-line="68" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commesse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-749">
+          <caret line="62" column="70" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/syle-pdf.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5070">
+          <caret line="338" column="1" selection-start-line="338" selection-start-column="1" selection-end-line="338" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/print_apertura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classi/class.Commesse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="276" column="455" selection-start-line="276" selection-start-column="455" selection-end-line="276" selection-end-column="455" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/tabella_commesse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="140" column="116" selection-start-line="140" selection-start-column="116" selection-end-line="140" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/tabella_aperturacantiere.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="56" column="161" selection-start-line="56" selection-start-column="145" selection-end-line="56" selection-end-column="161" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/salva_commessa_cantiere.lib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="268" selection-start-line="49" selection-start-column="268" selection-end-line="49" selection-end-column="268" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/sito/apertura_cantiere.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="351" selection-start-line="45" selection-start-column="351" selection-end-line="45" selection-end-column="351" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apertura_cantiere.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/query">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="80" selection-start-line="1" selection-start-column="80" selection-end-line="1" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dettagli_modello.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classi/class.Modello.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="116" column="9" lean-forward="true" selection-start-line="109" selection-start-column="8" selection-end-line="116" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/operazioni_modello_master.lib.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/salva_ordine_items.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/tabella_dettagli_modello.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="148" column="4" lean-forward="true" selection-start-line="148" selection-start-column="4" selection-end-line="148" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/sito/modelli/tabella_dettagli_modello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="7" lean-forward="true" selection-start-line="41" selection-start-column="11" selection-end-line="70" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/operazioni_modello.lib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="258" column="164" selection-start-line="258" selection-start-column="164" selection-end-line="258" selection-end-column="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classi/class.Allegati.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

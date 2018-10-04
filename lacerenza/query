@@ -1,0 +1,2 @@
+ALTER TABLE `tb_commesse` ADD `numero_dipendenti` VARCHAR(512) NOT NULL AFTER `campo6`, ADD `datafine` DATE NOT NULL AFTER `numero_dipendenti`;
+ALTER TABLE `tb_commesse` ADD `apertura_cantiere` INT NOT NULL AFTER `datafine`;

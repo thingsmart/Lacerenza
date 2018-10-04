@@ -1,0 +1,39 @@
+//JS relativo a pagina utenti.php
+
+$(document).ready(function() {
+	
+	
+	//validazione campi
+	$("#formNewDipendente").validate({
+		rules: {
+			nome_utente: {
+				required: true
+			},
+			cognome_utente: {
+				required: true
+			}
+		},
+		messages:{  
+			nome_utente:{  
+				required: "<strong style='color:red; font-size:10px'>Nome obbligatorio.</strong>"
+			},
+			cognome_utente:{  
+				required: "<strong style='color:red; font-size:10px'>Cognome obbligatorio.</strong>"
+			}
+		},
+		errorPlacement: function(error, element){
+			
+			$("#messaggio").hide();
+			$("#messaggio_errore").html("<img src='img/danger.png' style='width:20px; margin-right:10px' />Compila tutti i campi con *");
+			$("#messaggio_errore").show();
+					//NASCONDO MESSAGGIO
+					setTimeout(function(){
+				    	$('#messaggio_errore').hide(1000);
+					}, 4000);
+        }
+	});	
+	
+	
+}); // chiudo $(document).ready
+
+
